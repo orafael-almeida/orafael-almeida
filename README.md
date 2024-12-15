@@ -16,13 +16,13 @@ const rafaelAlmeida = {
         frontEnd: {
             js: ["React", "Next.js"],
             css: ["Styled Components", "Tailwind", "Bootstrap"],
-            uiLibraries: ["Material UI", "Ant Design", "Chakra UI", Shadcn],
+            uiLibraries: ["Shadcn", "Material UI", "Ant Design", "Chakra UI"],
         },
         backEnd: {
             js: ["Node", "Express", "NestJS"],
         },
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "Redis"],
+        misc: ["REST APIs", "WebSockets", "Cloud Functions"],
     },
     currentFocus: "Improving Next.js and architecture",
     funFact: "I can debug faster with a coffee in hand!"
