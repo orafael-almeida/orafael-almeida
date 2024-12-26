@@ -9,21 +9,19 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const rafaelAlmeida = {
-   
+const rafaelAlmeida = {   
     code: ["TypeScript", "Javascript", "Golang"],    
     technologies: {
         frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Styled Components", "Tailwind", "Bootstrap"],
+            js: ["React.js", "Next.js"],
+            css: ["TailwindCSS", "Styled Components", "Bootstrap", "SASS"],
             uiLibraries: ["Shadcn", "Material UI", "Ant Design", "Chakra UI"],
         },
         backEnd: {
-            js: ["Node", "Express", "NestJS"],
+            js: ["Node.js", "Express.js", "NestJS"],
         },
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "Redis"],
-        misc: ["REST APIs", "WebSockets", "Cloud Functions"],
+        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase", "Redis"],
     },
-    currentFocus: "Improving Next.js and architecture",
+    currentFocus: "Improving Next.js and Clean Architecture",
     funFact: "I can debug faster with a coffee in hand!"
 };
