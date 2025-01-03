@@ -9,7 +9,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
-Full stack software developer who loves creating web interfaces with react/next and scalable apis with nodejs. I work on developing complete, detailed and reliable applications.
+Full stack software developer who loves creating web interfaces with React.js/Next.js and scalable apis with Node.js. I work on developing complete, detailed and reliable applications.
 Read more information about me at https://orafael-almeida.vercel.app/
 
 *   🌍 I'm based on Florianopolis - Brazil.
