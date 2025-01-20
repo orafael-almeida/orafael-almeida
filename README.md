@@ -43,7 +43,7 @@ Read more information about me at https://orafael-almeida.vercel.app/
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
-![orafael-almeida's Stats](https://github-readme-stats.vercel.app/api?username=orafael-almeida&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![orafael-almeida's Stats](https://github-readme-stats.vercel.app/api?username=orafael-almeida&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&cache_seconds=1800)
 
 ### Socials
 
