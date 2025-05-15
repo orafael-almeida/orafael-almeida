@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/header.svg" alt="Rafael Almeida"/>
+<img src="https://raw.githubusercontent.com/orafael-almeida/orafael-almeida/0ae14f31c53f586f14f81d54f23790b3f68949f8/assets/header.svg" alt="Rafael Almeida"/>
 </div>
 
 <p align="center">
@@ -9,8 +9,7 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 
-Full stack software developer who loves creating web interfaces with React.js/Next.js and scalable API's with Node.js. I work on developing complete, detailed and reliable applications.
-Read more information about me at https://orafael-almeida.vercel.app/
+Full-stack software developer who loves creating web interfaces with React.js/Next.js and scalable API's with Node.js. I work on developing complete, detailed and reliable applications.
 
 *   🌍 I'm based on Florianopolis - Brazil.
 *   ✉️ You can contact me at [almeidarp.dev@gmail.com](almeidarp.dev@gmail.com).
